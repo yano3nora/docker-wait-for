@@ -1,7 +1,7 @@
 # docker-wait-for
 > Docker Hub https://hub.docker.com/r/yano3nora/docker-wait-for
 
-Use `[wait-for](https://github.com/eficode/wait-for)` in Docker.
+Use `wait-for` ([eficode/wait-for](https://github.com/eficode/wait-for)) in Docker.
 
 ## Usage
 ```sh
