@@ -3,7 +3,7 @@ Use `wait-for` ([eficode/wait-for](https://github.com/eficode/wait-for)) in Dock
 
 ## Usage
 ```sh
-# refs. https://docs.docker.jp/compose/startup-order.html
+# ref. https://docs.docker.jp/compose/startup-order.html
 #
 $ docker run --rm yano3nora/docker-wait-for www.google.com:80 -- echo "google is up"
 > google is up
